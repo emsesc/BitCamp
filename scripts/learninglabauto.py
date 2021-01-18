@@ -1,7 +1,7 @@
 import os
 import re
 
-subdir = "learninglab"
+subdir = ""
 
 if subdir == "":
   exit()
