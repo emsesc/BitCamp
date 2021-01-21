@@ -1,5 +1,8 @@
 # Bitcamp Slack 💬
 test
+
+test case 2
+
 Slack Apps are powerful extensions for Slack, a channel-based messaging platform widely used in the industry like IBM, Amazon, and more. These Apps allow users in a workspace to interact, connect, communicate, and work for efficently.
 
 ## The Goal 🥅
